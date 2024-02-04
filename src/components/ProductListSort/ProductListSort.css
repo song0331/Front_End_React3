@@ -1,0 +1,20 @@
+.product_list_sort {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  /* background: red; */
+  width: 783px;
+  height: 44px;
+  margin-bottom: 10px;
+  /* border: 1px solid black; */
+}
+
+.is_active {
+  color: var(--content, #333);
+  font-family: Pretendard;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+}
